@@ -1,0 +1,2 @@
+## Anotações
+Quando definimos width ou height com tamanhos específicos (px) ao diminuir a tela abaixo do valor usado o browser cria uma barra de rolagem, o que não é legal quando se busca responsividade.
